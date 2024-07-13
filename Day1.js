@@ -15,7 +15,7 @@ console.log(isloggedin);
 
 // Javascript is Case-Sensitive
 let Name="rohan";
-let age=21;
+let Num=535;
 let Id="Ron5050";
 let isLoggedin=true;
 let obj1 = {
@@ -35,7 +35,7 @@ console.log(hero_class);
 // Task 4
 
 console.log(typeof(Name));
-console.log(typeof(age));
+console.log(typeof(Num));
 console.log(typeof(isLoggedin));
 console.log(typeof(obj1));
 console.log(typeof(hero_class));
@@ -52,6 +52,7 @@ console.log(callme)
 
 const greet ="Hello Ron";
 //greet ="hello Suresh";
+//Error- if same Assignment to constant variable
 
 console.log(greet);
 
