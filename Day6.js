@@ -95,5 +95,5 @@ const matrix = [
 
   // Task 13
   console.log("\n");
-  console.log(matrix[1][2]);
+  console.log(matix[1][2]);
   console.log(matrix[0][2]);
